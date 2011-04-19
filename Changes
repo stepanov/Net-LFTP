@@ -1,0 +1,6 @@
+Revision history for Perl extension Net::LFTP.
+
+0.01  Tue Aug 19 13:01:48 2008
+	- original version; created by h2xs 1.23 with options
+		-XAn Net::LFTP
+
